@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="exe.xsl"?>
+<flights>
+  <flight>
+    <city>Kiev</city>
+    <passengers>180</passengers>
+    <time>12:12</time>
+  </flight>
+  <flight>
+    <city>Rivne</city>
+    <passengers>100</passengers>
+    <time>13:15</time>
+  </flight>
+  <flight>
+    <city>Kiev</city>
+    <passengers>200</passengers>
+    <time>1:02</time>
+  </flight>
+  <flight>
+    <city>Berlin</city>
+    <passengers>250</passengers>
+    <time>16:52</time>
+  </flight>
+</flights>
